@@ -1,4 +1,4 @@
-FROM node:10.6.0
+FROM node:10.23
 ARG auth_user
 ARG auth_pass
 ARG ssl_key
