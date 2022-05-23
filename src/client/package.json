@@ -19,7 +19,7 @@
     "lint": "tslint -p . -t verbose"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "~0.12",
+    "@tensorflow/tfjs": "~1.0.0",
     "@types/socket.io-client": "^1.4.32",
     "@types/uuid": "^3.4.3",
     "socket.io-client": "^2.1.1",
