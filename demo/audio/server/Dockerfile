@@ -1,4 +1,4 @@
-FROM node:14.20.0
+FROM node:18.9.0-slim
 ARG auth_user
 ARG auth_pass
 ARG ssl_key
